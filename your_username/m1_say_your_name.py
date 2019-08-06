@@ -4,7 +4,7 @@ This module is meant to be your first program that you've made for EV3.
   Make the robot say your name and then beep.
   Use the samples to learn the API calls needed (not much code to write)
 
-Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
+Authors: Dave Fisher and Junfei Cai.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
